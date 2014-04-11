@@ -1,5 +1,5 @@
-def tetris():
-	hello = raw_input("You here to play Tetris?/n>"
-	print hello
+def f():
+	s = raw_input("You here to play Tetris?\n>")
+	print s
 
-tetris()
+f()
